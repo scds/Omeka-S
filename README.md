@@ -1,7 +1,7 @@
 # Omeka-S
 Materials for the DMDS workshop: Omeka-S  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/omeka-s) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/Omeka-S/) with GitHub Pages   
 
 
 Contributions by the following individuals: 
