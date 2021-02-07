@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preparation
+title: Introduction
 nav_order: 2
 ---
 
