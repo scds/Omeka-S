@@ -7,7 +7,6 @@ nav_order: 2
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 
-<!--
 
 # Workshop introduction 
 
@@ -34,4 +33,4 @@ You have three options for downloading Tableau:
 
 The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
 
--->
+
