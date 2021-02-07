@@ -18,8 +18,8 @@ View the original video [here](https://echo360.ca/media/a4e1355c-d930-4c6c-a97d-
 
 ### 1. View Examples
 One of the best ways to know if Omeka is the right platform for you is to view examples of projects. Here are a few examples to get you started:
-* (https://exhibit.utas.edu.au/)
-* (https://omeka.org/s/directory/)
+* https://exhibit.utas.edu.au/
+* https://omeka.org/s/directory/
 
 ### 2. Digitize Assets
 For tips on the digitization process, see the video [Digitization for Digital Scholarship](https://echo360.ca/media/64eab494-dc95-4b06-8189-4162f5794cb7/public) created by our digitization services manager, Krista Jamieson.
