@@ -19,7 +19,7 @@ View the original video [here](https://echo360.ca/media/a4e1355c-d930-4c6c-a97d-
 
 If you plan to follow along with this tutorial, you can use the Omeka Sandbox available [here](https://omeka.org/s/download/#sandbox).
 
-Once you've set up the Omeka Sandbox you are ready to proceed to [Step 1](step1) creating Item Sets.
+Once you've set up the Omeka Sandbox you are ready to proceed to [Step 1](step1): Creating Item Sets.
 
 
 
