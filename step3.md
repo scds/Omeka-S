@@ -27,19 +27,12 @@ View the original video [here](https://echo360.ca/media/64184964-1588-448f-bf61-
 
 ### Adding Multiple Pages
 
-- Next, you will populate your selected metadata fields. It will be up to you to decide which fields to include based on the nature of your research project or digital exhibit. But it is recommended that you include *at least* **Title**, **Type**, **Identifier**, and **Rights**.
-- Once you've added all of the metadata select **Add** in the top right corner.
-
-### Media
-- Once you've saved your metadata by clicking **Add** in the top right corner it is time to upload your digital asset.
-- Click on the **Media** tab and select **Upload** from the pane on the right.
-- Click on **Choose file**, locate your file, and select **Add** in the top right corner. 
-- Now you have uploaded both the metadata and the media for your digital asset.
+- Select **Pages** from the left navigation pane.
+- Here you will see all of the pages in your Omeka Site. You can add a new plage by clicking on **Add new page** in the top right corner. 
+- Give your new page a title, and select **Add to Navigation** if you want this page to be accessible from your exhibit's navigation menu. 
+- Select **Add** in the top right corner and now you have another page in your digital exhibit. 
+- You can add content and media to this page by following the instructions listed above. 
 
 
-3. The final step is to assign this item to your **Item Set**. To do this click on the **Item Set** tab at the top and select the desired Item Set from the pane on the right.
+There are many other features in Omeka S, but these are the basic steps to creating a digital exhibit. If you have questions about any of these steps or additional Omeka S features proceed to the [Learn More](learn-more) page to register for our virtual drop-in session.
 
-*n.b. If you are still working on the metadata for your item, or are waiting for information about permissions and rights, you can keep the item private by selecting the **eye icon** in the top right corner. When you are ready to make the item public, simply click on the eye again and you will no longer see a strike through the icon. This means the item can be viewed publicly.*
-
-Once you've added a few Items to your Item Set you are ready to proceed to [Step 3](step3): Building a Digital Exhibit.
- 
