@@ -20,7 +20,7 @@ View the original video [here](https://echo360.ca/media/9355cce4-fb53-4093-9260-
 - Once you've added all of the metadata select **Add** in the top right corner.
 
 ### Media
-- Once you've saved your metadata by clicking **Add** in the top right corner, it is time to upload your digital asset.
+- Once you've saved your metadata by clicking **Add** in the top right corner it is time to upload your digital asset.
 - Click on the **Media** tab and select **Upload** from the pane on the right.
 - Click on **Choose file**, locate your file, and select **Add** in the top right corner. 
 - Now you have uploaded both the metadata and the media for your digital asset.
