@@ -7,7 +7,7 @@ nav_order: 7
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 
-# Learn More
+# Learn More About Omeka S
 
 ## Virtual Drop-in Session
 
