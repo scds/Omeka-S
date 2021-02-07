@@ -14,7 +14,7 @@ View the original video [here](https://echo360.ca/media/64184964-1588-448f-bf61-
 
 1. Select **Sites** from the left navigation pane and click **Add new site**.
 2. Give your exhibit a title and select a theme for your exhibit from the **Theme** tab.
-3. Select **Pages** from the left navigation pane. You will see that Omeka has created a default Welcome page for you. You can either delete this page (by clicking on the **trash can icon** and start from scratch by selecting **Add new page**, or you can edit the content on the default Welcome page by clicking on the page title.
+3. Select **Pages** from the left navigation pane. You will see that Omeka has created a default Welcome page for you. You can either delete this page (by clicking on the **trash can icon**) and start from scratch by selecting **Add new page**, or you can edit the content on the default Welcome page by clicking on the page title.
 
 ### Adding Content Blocks
 - Add media or text to your exhibit by using content blocks.
@@ -28,8 +28,8 @@ View the original video [here](https://echo360.ca/media/64184964-1588-448f-bf61-
 ### Adding Multiple Pages
 
 - Select **Pages** from the left navigation pane.
-- Here you will see all of the pages in your Omeka Site. You can add a new plage by clicking on **Add new page** in the top right corner. 
-- Give your new page a title, and select **Add to Navigation** if you want this page to be accessible from your exhibit's navigation menu. 
+- Here you will see all of the pages in your Omeka Site. You can add a new page by clicking on **Add new page** in the top right corner. 
+- Give your new page a title and select **Add to Navigation** if you want this page to be accessible from your exhibit's navigation menu. 
 - Select **Add** in the top right corner and now you have another page in your digital exhibit. 
 - You can add content and media to this page by following the instructions listed above. 
 
