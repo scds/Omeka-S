@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Introduction to Omeka S
+title: Home
 description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
