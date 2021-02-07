@@ -6,7 +6,7 @@ nav_order: 3
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
-<!--
+
 
 ## Setting up your Omeka sandbox
 
@@ -18,4 +18,4 @@ View the original [here](https://echo360.ca/media/a4e1355c-d930-4c6c-a97d-32fd3b
 If you plan to follow along with this tutorial, you can use the Omeka Sandbox available [here](https://omeka.org/s/download/#sandbox)
 
 
--->
+
