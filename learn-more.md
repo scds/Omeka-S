@@ -10,7 +10,7 @@ nav_order: 7
 # Learn More About Omeka S
 
 ## Virtual Drop-in Session
-If you have questions about anything in this tutorial register for our **Virtual Drop-in Session** on Wednesday, February 24, 2021 from 11:30 - 12:30 (EST) by following [this link](https://libcal.mcmaster.ca/calendar/scds/dmds-omeka-drop-ins).
+If you have questions about anything in this tutorial register for our **Virtual Drop-in Session** on Wednesday, February 24, 2021 from 11:30-12:30 (EST) by following [this link](https://libcal.mcmaster.ca/calendar/scds/dmds-omeka-drop-ins).
 
 ## Contact Us
 If you have specific questions about Omeka S, digitization, metadata, or want to know more about using digital exhibits for research or classroom projects, email us at scds@mcmaster.ca
