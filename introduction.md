@@ -17,7 +17,7 @@ View the original video [here](https://echo360.ca/media/c7cffdc9-a77c-4602-8a83-
 ## Preparation
 
 ### 1. View Examples
-One of the best ways to know if Omeka is the right platform for you is to view examples of projects. Here are a few to get you started:
+One of the best ways to know if Omeka is the right platform for you is to view example projects. Here are a few to get you started:
 * https://exhibit.utas.edu.au/
 * https://omeka.org/s/directory/
 
