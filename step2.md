@@ -25,7 +25,6 @@ View the original video [here](https://echo360.ca/media/9355cce4-fb53-4093-9260-
 - Click on **Choose file**, locate your file, and select **Add** in the top right corner. 
 - Now you have uploaded both the metadata and the media for your digital asset.
 
-
 3. The final step is to assign this item to your **Item Set**. To do this click on the **Item Set** tab at the top and select the desired Item Set from the pane on the right.
 
 *n.b., If you are still working on the metadata for your item, or are waiting for information about permissions and rights, you can keep the item private by selecting the **eye icon** in the top right corner. When you are ready to make the item public, simply click on the eye again and you will no longer see a strike through the icon. This means the item can be viewed publicly.*
