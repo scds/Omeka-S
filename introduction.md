@@ -11,11 +11,18 @@ nav_order: 2
 
 # Workshop introduction 
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
-  
-## Get the data
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a4e1355c-d930-4c6c-a97d-32fd3b133d4c/public?autoplay=false&automute=false"></iframe>
+
+View the original [here](https://echo360.ca/media/a4e1355c-d930-4c6c-a97d-32fd3b133d4c/public).
+  
+## Preparation
+
+1. View Examples
+
+2. Digitize Assets
+
+3. Know the Rights
 
 ## Get the software
 This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
