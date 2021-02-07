@@ -4,13 +4,13 @@ title: Step 1-Item Sets
 nav_order: 4
 ---
 
-## Creating Item Sets
+# Creating Item Sets
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c194cc11-54f2-47a9-9fb7-934c58ed41a5/public?autoplay=true&automute=true"></iframe>
 
 View the original video [here](https://echo360.ca/media/c194cc11-54f2-47a9-9fb7-934c58ed41a5/public).
 
 
-### Step by step
+## Step by step instructions
 
 1. Select **Item Sets** from the left navigation pane
 2. Select **Add New Item Set** in the top right corner
