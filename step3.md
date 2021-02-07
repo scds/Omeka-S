@@ -34,5 +34,5 @@ View the original video [here](https://echo360.ca/media/64184964-1588-448f-bf61-
 - You can add content and media to this page by following the instructions listed above. 
 
 
-There are many other features in Omeka S, but these are the basic steps to creating a digital exhibit. If you have questions about any of these steps or additional Omeka S features proceed to the [Learn More](learn-more) page to register for our virtual drop-in session.
+**There are many other features in Omeka S, but these are the basic steps to creating a digital exhibit. If you have questions about any of these steps, or additional Omeka S features, proceed to the [Learn More](learn-more) page to register for our virtual drop-in session.**
 
