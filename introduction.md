@@ -8,9 +8,9 @@ nav_order: 2
 
 
 
-# Workshop introduction 
+# Workshop Introduction 
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a4e1355c-d930-4c6c-a97d-32fd3b133d4c/public?autoplay=true&automute=true"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a4e1355c-d930-4c6c-a97d-32fd3b133d4c/public?autoplay=false&automute=false"></iframe>
 
 View the original video [here](https://echo360.ca/media/a4e1355c-d930-4c6c-a97d-32fd3b133d4c/public).
   
