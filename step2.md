@@ -9,7 +9,7 @@ nav_order: 5
 View the original video [here](https://echo360.ca/media/9355cce4-fb53-4093-9260-1a736b45a788/public).
 
 
-## Step by step instructions
+## Step by step instructions:
 
 1. From within your Item Set click on **View items** and select **Add new item** in the top right corner.
 2. To add an item in Omeka you need to have **a) the metadata** and **b) the media** ( or the digital asset i.e., a high resolution scan or photograph of the item).
