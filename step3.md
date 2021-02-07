@@ -14,7 +14,7 @@ View the original video [here](https://echo360.ca/media/64184964-1588-448f-bf61-
 
 1. Select **Sites** from the left navigation pane and click **Add new site**.
 2. Give your exhibit a title and select a theme for your exhibit from the **Theme** tab.
-3. Select **Pages** from the left navigation pane. You will see that Omeka has created a default Welcome page for you. You can either delete this page (by clicking on the **trash can icon**) and start from scratch by selecting **Add new page**, or you can edit the content on the default Welcome page by clicking on the page title.
+3. Select **Pages** from the left navigation pane. You will see that Omeka has created a default Welcome page for you. You can either delete this page (by clicking on the **trash can icon** ) and start from scratch by selecting **Add new page**, or you can edit the content on the default Welcome page by clicking on the page title.
 
 ### Adding Content Blocks
 - Add media or text to your exhibit by using content blocks.
