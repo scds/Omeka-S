@@ -14,6 +14,6 @@ nav_order: 1
 
 Learn how to use Omeka S to manage digital collections and create scholarly exhibits. This tutorial will introduce users to the basic functions of [Omeka S](https://omeka.org/). including how to create an archival item collection, add metadata, and build a digital exhibit.  
 
-Proceed to the [Introduction](introduction) page to get started.
+**Proceed to the [Introduction](introduction) page to get started.**
 
 
