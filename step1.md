@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # Creating Item Sets
-<iframe height="360" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/c194cc11-54f2-47a9-9fb7-934c58ed41a5/public?autoplay=false&automute=false"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/c194cc11-54f2-47a9-9fb7-934c58ed41a5/public?autoplay=false&automute=false"></iframe>
 
 View the original video [here](https://echo360.ca/media/c194cc11-54f2-47a9-9fb7-934c58ed41a5/public).
 
