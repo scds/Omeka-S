@@ -29,4 +29,4 @@ It is important that you know the rights for the material you plan to use (wheth
 
 *n.b., If you are working with a collection that is already digitized, this collection MAY be licensed in such a way that allows you to use the material with attribution. In a case where you are digitizing the content yourself, you will have to get permission to use the content for your Omeka site. Often this permission comes from the owner of the content, and not the archive itself, but archivists can certainly help you navigate the process of obtaining permissions.*
 
-Once you've completed these introductory steps navigate to the [The Omeka Sandbox](omekasandbox) setup page.
+**Once you've completed these introductory steps navigate to the [The Omeka Sandbox](omekasandbox) setup page.**
