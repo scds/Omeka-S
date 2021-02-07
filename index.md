@@ -8,7 +8,7 @@ nav_order: 1
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 
-<img src="assets/img/dmds-omekas.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/dmds-omekas.PNG" alt="Workshop Title Slide" width="720">
 
 # Welcome to Introduction to Digital Exhibits with Omeka S. 
 
