@@ -22,7 +22,7 @@ One of the best ways to know if Omeka is the right platform for you is to view e
 * https://omeka.org/s/directory/
 
 ### 2. Digitize Assets
-For tips on the digitization process, see the video [Digitization for Digital Scholarship](https://echo360.ca/media/64eab494-dc95-4b06-8189-4162f5794cb7/public) created by our digitization services manager, Krista Jamieson.
+For tips on the digitization process, see the video [Digitization for Digital Scholarship](https://echo360.ca/media/64eab494-dc95-4b06-8189-4162f5794cb7/public) created by our Digitization Services Manager, Krista Jamieson.
 
 ### 3. Know the Rights
 It is important that you know the rights for the material you plan to use (whether you are doing the digitization yourself or using items from an existing digital collection). Remember that in building an Omeka exhibit you are creating something that is public facing, so it is your responsibility to ensure that you have the proper permissions to use these digitized archival items.
