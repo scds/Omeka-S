@@ -9,7 +9,7 @@ nav_order: 2
 
 <!--
 
-# Workshop preparation 
+# Workshop introduction 
 
 Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
   
